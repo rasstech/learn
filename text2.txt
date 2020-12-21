@@ -1,1 +1,1 @@
-this is text of file2
+this is text of file2 and now it's gonna be change
